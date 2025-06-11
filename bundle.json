@@ -1,0 +1,59 @@
+
+{
+  "semantic": {
+    "KEYBOARD": {
+      "type": "color",
+      "value": "#0d001b"
+    },
+    "SCROLLBAR_THIN_TRACK": {
+      "type": "color",
+      "value": "transparent"
+    },
+    "SCROLLBAR_THIN_THUMB": {
+      "type": "color",
+      "value": "#512da8"
+    },
+    "BACKGROUND_PRIMARY": {
+      "type": "color",
+      "value": "#0d001b"
+    },
+    "BACKGROUND_SECONDARY": {
+      "type": "color",
+      "value": "#1b0036"
+    },
+    "BACKGROUND_TERTIARY": {
+      "type": "color",
+      "value": "#1b0029"
+    },
+    "TEXT_NORMAL": {
+      "type": "color",
+      "value": "#e0e0e0"
+    },
+    "TEXT_MUTED": {
+      "type": "color",
+      "value": "#9e9e9e"
+    },
+    "BRAND_ACCENT": {
+      "type": "color",
+      "value": "#304ffe"
+    },
+    "BUTTON_PRIMARY_BACKGROUND": {
+      "type": "color",
+      "value": "#304ffe"
+    },
+    "BUTTON_PRIMARY_TEXT": {
+      "type": "color",
+      "value": "#e0e0e0"
+    }
+  },
+  "raw": {
+    "PRIMARY": "#0d001b",
+    "SECONDARY": "#1b0036",
+    "TERTIARY": "#1b0029",
+    "ACCENT_BLUE": "#304ffe",
+    "ACCENT_PURPLE": "#512da8",
+    "TEXT": "#e0e0e0",
+    "TEXT_MUTED": "#9e9e9e"
+  },
+  "type": "dark"
+}
