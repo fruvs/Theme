@@ -1,0 +1,14 @@
+{
+  "name": "Dark Blue-Purple",
+  "id": "darkbluepurple",
+  "type": "theme",
+  "main": "bundle.json",
+  "description": "A moody dark theme with rich blues and purples.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "wston",
+      "id": "877813686012608533"
+    }
+  ]
+}
